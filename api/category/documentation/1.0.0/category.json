@@ -575,6 +575,9 @@
                     "published"
                   ]
                 },
+                "sku": {
+                  "type": "string"
+                },
                 "created_by": {
                   "type": "string"
                 },

@@ -668,6 +668,9 @@
               "draft",
               "published"
             ]
+          },
+          "sku": {
+            "type": "string"
           }
         }
       },
@@ -726,6 +729,9 @@
               "draft",
               "published"
             ]
+          },
+          "sku": {
+            "type": "string"
           },
           "created_by": {
             "type": "string"
